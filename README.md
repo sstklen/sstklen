@@ -1,4 +1,4 @@
-# Hi there, I'm sstklen! 👋
+# 嗨，我是 sstklen 👋
 
 <p align="center">
   <a href="#-english">English</a> •
@@ -8,70 +8,75 @@
 
 ---
 
-## 🌏 English
+## 🌏 繁體中文
 
-> **"Building bridges between Physical Reality and Digital Intelligence."**
+> **「程式碼不只是工具，而是連結物理世界與數位思維的橋樑。」**
 
-I am a Developer & Technical Architect focused on **SaaS Automation**, **Computer Vision**, and **Real-World AI Application**. I specialize in turning complex, messy operational problems into elegant, automated solutions.
+### 我是誰？
+一個跑來日本鄉下的台灣人。
+不知道為什麼，現在在經營一個叫「和心村」的地方。
 
-### 🚀 Featured Projects
-*   To see my work, please check the [Featured Projects](#-featured-projects) section below.
+那裡有：
+- 🐱 一堆貓（Ariel、Cruella、Jelly、Ace、Anko、Dollar...）
+- 🐐 還有山羊
+- 🌲 很多樹
+- 🏠 老房子
+
+### 我在幹嘛？
+我不想自己剪影片、不想自己發文、不想自己分析數據。
+所以我讓 AI 做。
+
+我的口頭禪是：
+「這個是真的假的？你確定有人會用嗎？」
+
+### 技術棧
+[![My Skills](https://skillicons.dev/icons?i=python,rust,ts,docker,gcp,firebase)](https://skillicons.dev)
 
 ---
 
-## 🌏 繁體中文
+## 🌏 English
 
-> **「致力於連結『物理世界』與『數位智能』的橋樑。」**
-> **「程式碼不只是工具，而是連結物理世界與數位思維的橋樑。」**
+### Who am I?
+A Taiwanese guy who somehow ended up in rural Japan, running a place called "Washin Village."
 
-我是一名技術架構師，專注於 **SaaS 自動化** 與 **電腦視覺**。
-我不追求堆砌最新的技術名詞，而是致力於用程式碼解決真實世界中「髒亂」、「繁瑣」且「不可控」的難題。
+There, I have:
+- 🐱 A bunch of cats (Ariel, Cruella, Jelly, Ace, Anko, Dollar...)
+- 🐐 Goats
+- 🌲 Lots of trees
+- 🏠 Old houses
+
+### What am I doing?
+I don't want to edit videos myself, post on social media myself, or analyze data myself.
+So I make AI do it.
 
 ---
 
 ## 🌏 日本語
 
-> **「物理世界とデジタルインテリジェンスの架け橋に。」**
+### 私は誰？
+なぜか日本の田舎にいる台湾人。
+「和心村」という場所を運営中。
 
-**SaaS自動化**、**コンピュータビジョン**、**実世界AI (Real-World AI)** に特化したテクニカルアーキテクトです。
-複雑で混沌とした現場の課題を、エレガントでスケーラブルな自動化ソリューションへと昇華させることを得意としています。最新技術の羅列ではなく、泥臭い現実の問題をコードで解決することに情熱を注いでいます。
+ここには：
+- 🐱 たくさんの猫（Ariel、Cruella、Jelly、Ace、Anko、Dollar...）
+- 🐐 ヤギ
+- 🌲 たくさんの木
+- 🏠 古い家
 
----
-
-### 🛠 Tech Stack (技術棧 / 技術スタック)
-
-[![My Skills](https://skillicons.dev/icons?i=python,rust,ts,docker,gcp,firebase,flask,html,css,tailwind,vscode)](https://skillicons.dev)
-
-- **Core & AI**: Python (Gemini/YOLO), Rust (Systems), TypeScript (Web)
-- **Cloud & Ops**: Google Cloud Platform (Run/Firestore), Docker, Github Actions
-- **Stack**: LINE Bot API, Web Scrapers, System Integration
-
----
-
-### 🚀 Featured Projects (精選專案 / 注目のプロジェクト)
-
-#### 💎 [Washin Animal Village (和心動物村)](https://github.com/sstklen/washin-animal-village)
-> *Coming Soon*
-
-*   **🇺🇸 EN**: **Physical Intelligence Data Lake**. A massive-scale experiment in turning "natural chaos" (uncontrolled animal behaviors) into structured, trainable intelligence using Gemini Vision & YOLO.
-*   **🇹🇼 ZH**: **實體 AI 數據湖泊**。一個在真實動物園區進行的 AI 實驗。利用自研的「通用標註器」將泥土、天氣與不可控的動物行為，轉化為結構化的認知數據。
-*   **🇯🇵 JA**: **実世界AIデータレイク**。実際の動物園で展開されるAI実験。Gemini VisionとYOLOを駆使し、泥や天候、予測不能な動物の行動といった「自然界のカオス」を、構造化されたインテリジェンスへと変換します。
-
-#### 🏘️ [Machi (万智): Real Estate AI Assistant](https://github.com/sstklen/machi-real-estate-bot)
-> *Coming Soon*
-
-*   **🇺🇸 EN**: **Automated Real Estate Layout Processing SaaS**. A LINE Bot that reduces the 30-minute task of rebranding property layouts to just 3 seconds using OCR and In-painting.
-*   **🇹🇼 ZH**: **不動產 AI 業務助理**。透過 LINE Bot 與 OCR 自動化技術，將日本房仲繁瑣的圖紙「換皮」工作從 30 分鐘縮短至 3 秒鐘。
-*   **🇯🇵 JA**: **不動産AI業務アシスタント**。LINE BotとOCR技術を活用し、日本の不動産仲介業者の煩雑な「マイソク（図面）帯替え」作業を、30分からわずか3秒へと短縮するSaaSプラットフォーム。
-
-#### 🤖 [Real Estate Bot](https://github.com/sstklen/Real-Estate-Bot)
-Specialized bot for identifying real estate opportunities.
+### 何をしているの？
+動画編集も、SNS投稿も、データ分析も、自分でやりたくない。
+だから AI にやらせてる。
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 精選專案 / Featured Projects
+
+### 💎 [和心動物村 (Washin Animal Village)](https://github.com/sstklen/washin-animal-village)
+用 AI 記錄動物們的日常，試著讓機器理解「不聽話的生命體」。
+
+### 🏘️ [宅助万智 (Machi)](https://github.com/sstklen/Real-Estate-Bot)
+日本房仲的 AI 助理，把 30 分鐘的圖紙換皮變成 3 秒鐘。
+
+---
 
 ![sstklen's Stats](https://github-readme-stats.vercel.app/api?username=sstklen&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstklen&layout=compact&theme=default)
-
-<!-- Protected by Antigravity Governance Protocol -->
