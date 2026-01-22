@@ -1,56 +1,77 @@
 # Hi there, I'm sstklen! 👋
 
+<p align="center">
+  <a href="#-english">English</a> •
+  <a href="#-繁體中文">繁體中文</a> •
+  <a href="#-日本語">日本語</a>
+</p>
+
+---
+
+## 🌏 English
+
+> **"Building bridges between Physical Reality and Digital Intelligence."**
+
+I am a Developer & Technical Architect focused on **SaaS Automation**, **Computer Vision**, and **Real-World AI Application**. I specialize in turning complex, messy operational problems into elegant, automated solutions.
+
+### 🚀 Featured Projects
+*   To see my work, please check the [Featured Projects](#-featured-projects) section below.
+
+---
+
+## 🌏 繁體中文
+
+> **「致力於連結『物理世界』與『數位智能』的橋樑。」**
 > **「程式碼不只是工具，而是連結物理世界與數位思維的橋樑。」**
 
-我是一名技術架構師，專注於 **SaaS 自動化** 與 **電腦視覺 (Computer Vision)**。
+我是一名技術架構師，專注於 **SaaS 自動化** 與 **電腦視覺**。
 我不追求堆砌最新的技術名詞，而是致力於用程式碼解決真實世界中「髒亂」、「繁瑣」且「不可控」的難題。
 
 ---
 
-### 🛠 技術棧 (Tech Stack)
+## 🌏 日本語
+
+> **「物理世界とデジタルインテリジェンスの架け橋に。」**
+
+**SaaS自動化**、**コンピュータビジョン**、**実世界AI (Real-World AI)** に特化したテクニカルアーキテクトです。
+複雑で混沌とした現場の課題を、エレガントでスケーラブルな自動化ソリューションへと昇華させることを得意としています。最新技術の羅列ではなく、泥臭い現実の問題をコードで解決することに情熱を注いでいます。
+
+---
+
+### 🛠 Tech Stack (技術棧 / 技術スタック)
 
 [![My Skills](https://skillicons.dev/icons?i=python,rust,ts,docker,gcp,firebase,flask,html,css,tailwind,vscode)](https://skillicons.dev)
 
-- **核心語言**: Python (AI/Backend), Rust (Systems), TypeScript (Web), HTML/CSS
-- **雲端與運維**: Google Cloud Platform (Cloud Run, Firestore), Docker, Github Actions
-- **AI 與數據**: Gemini Models, YOLOv8, Computer Vision Pipelines
-- **自動化整合**: LINE Bot API, Web Scrapers, System Integration
+- **Core & AI**: Python (Gemini/YOLO), Rust (Systems), TypeScript (Web)
+- **Cloud & Ops**: Google Cloud Platform (Run/Firestore), Docker, Github Actions
+- **Stack**: LINE Bot API, Web Scrapers, System Integration
 
 ---
 
-### 🚀 精選專案 (Featured Projects)
+### 🚀 Featured Projects (精選專案 / 注目のプロジェクト)
 
 #### 💎 [Washin Animal Village (和心動物村)](https://github.com/sstklen/washin-animal-village)
 > *Coming Soon*
-**在混亂的真實世界中，尋找生命的規律。**
 
-這是一個建立在真實營運動物園區的 AI 實驗專案。
-相比於實驗室裡乾淨、標準化的數據集，我們選擇挑戰最困難的場景——**不可控的自然環境**。
-- **核心挑戰**: 泥土、天氣、不可預測的動物行為。
-- **我的解法**: 結合 Gemini Vision 的認知能力與 YOLO 的動態捕捉，開發出「通用標註器 (Universal Tagger)」，自動將這些珍貴的生命瞬間轉化為結構化數據。
-這不僅是為了訓練模型，更是為了用數位的方式，紀錄下這個動物聚落的每一刻。
+*   **🇺🇸 EN**: **Physical Intelligence Data Lake**. A massive-scale experiment in turning "natural chaos" (uncontrolled animal behaviors) into structured, trainable intelligence using Gemini Vision & YOLO.
+*   **🇹🇼 ZH**: **實體 AI 數據湖泊**。一個在真實動物園區進行的 AI 實驗。利用自研的「通用標註器」將泥土、天氣與不可控的動物行為，轉化為結構化的認知數據。
+*   **🇯🇵 JA**: **実世界AIデータレイク**。実際の動物園で展開されるAI実験。Gemini VisionとYOLOを駆使し、泥や天候、予測不能な動物の行動といった「自然界のカオス」を、構造化されたインテリジェンスへと変換します。
 
-#### 🏘️ [Machi (万智): 不動產 AI 業務助理](https://github.com/sstklen/machi-real-estate-bot)
+#### 🏘️ [Machi (万智): Real Estate AI Assistant](https://github.com/sstklen/machi-real-estate-bot)
 > *Coming Soon*
-**讓專業人士從重複勞動中解放。**
-- **背景**: 日本房地產經紀人每天花費大量時間在修圖軟體上，只為了更換圖紙上的公司資訊。
-- **成果**: 透過 LINE Bot 與 OCR 自動化技術，我將這個 30 分鐘的流程縮短為 3 秒鐘。
-- **技術**: `Flask`, `Cloud Run`, `OCR`
+
+*   **🇺🇸 EN**: **Automated Real Estate Layout Processing SaaS**. A LINE Bot that reduces the 30-minute task of rebranding property layouts to just 3 seconds using OCR and In-painting.
+*   **🇹🇼 ZH**: **不動產 AI 業務助理**。透過 LINE Bot 與 OCR 自動化技術，將日本房仲繁瑣的圖紙「換皮」工作從 30 分鐘縮短至 3 秒鐘。
+*   **🇯🇵 JA**: **不動産AI業務アシスタント**。LINE BotとOCR技術を活用し、日本の不動産仲介業者の煩雑な「マイソク（図面）帯替え」作業を、30分からわずか3秒へと短縮するSaaSプラットフォーム。
 
 #### 🤖 [Real Estate Bot](https://github.com/sstklen/Real-Estate-Bot)
-專門用於識別和處理房地產機會的自動化機器人。
+Specialized bot for identifying real estate opportunities.
 
 ---
 
-### 📊 GitHub 數據 (GitHub Stats)
+### 📊 GitHub Stats
 
 ![sstklen's Stats](https://github-readme-stats.vercel.app/api?username=sstklen&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstklen&layout=compact&theme=default)
-
----
-
-### 📫 關於我
-- **目前專注**: **Physical Intelligence (物理智能)** —— 讓 AI 走出螢幕，理解真實世界的物理互動。
-- **開發哲學**: 認真對待每一行程式碼，因為它們將運行在真實的世界裡。
 
 <!-- Protected by Antigravity Governance Protocol -->
