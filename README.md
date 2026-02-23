@@ -75,6 +75,7 @@ Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-power
 
 | Skill | What it does |
 |-------|-------------|
+| [crawl-share](https://github.com/sstklen/crawl-share) | Community web intelligence: 200+ Apify actors battle-tested |
 | [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | Multi-agent research: 10 agents, 3 waves, parallel processing |
 | [Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization) | Save 50-90% on Claude API costs with Batch API + Caching |
 | [AEO.page](https://github.com/sstklen/aeo-page) | Agent Engine Optimization — help AI recommend your business |
