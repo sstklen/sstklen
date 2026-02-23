@@ -57,9 +57,9 @@ How to orchestrate Claude Code + Codex CLI + Gemini CLI as a 3-agent development
 </td>
 <td width="50%">
 
-**[AI Prompt Mastery](https://github.com/sstklen/ai-prompt-mastery)**
+**[Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization)**
 
-One universal methodology to make any AI respond like an expert.
+Save 50-90% on Claude API costs. Batch API + Prompt Caching + real scripts.
 
 </td>
 </tr>
