@@ -14,97 +14,94 @@
 
 ---
 
-### 👋 Who am I?
+### Who am I?
 
-A Taiwanese guy who moved to rural Japan and ended up running an **animal sanctuary with 28 cats & dogs**.
+A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dogs.
 
-I'm **not an engineer**. But I build real production systems using AI coding agents.
+**Not an engineer.** Built a production API platform (30+ APIs, ~50K LOC) using AI coding agents in 7 months. Every lesson is open-sourced below.
 
-My tools: **Claude Code** as the boss 🧠, with Codex, Gemini, and Nebula as the team.
+---
 
-```python
-while True:
-    claude_code.build_api()
-    claude_code.fix_bugs()
-    claude_code.deploy()
-    me.pet_cats()  # the important part
+### Featured
+
+<table>
+<tr>
+<td width="50%">
+
+**[Zero Engineer](https://github.com/sstklen/zero-engineer)**
+
+How I built a production API platform with zero engineering background. Real numbers, real failures, real lessons.
+
+`30+ APIs` `$550/mo` `7 months` `200+ bugs`
+
+</td>
+<td width="50%">
+
+**[112 Claude Code Skills](https://github.com/sstklen/washin-claude-skills)**
+
+Every bug fix extracted into a reusable skill. Install all 112 in 10 seconds.
+
+```
+curl -sSL https://raw.githubusercontent.com/sstklen/washin-claude-skills/main/install.sh | bash
 ```
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🥋 AI Dojo — Learn AI Coding Agent Skills
+**[Multi-Agent Coding](https://github.com/sstklen/multi-agent-coding)**
 
-> *A series of battle-tested skills from Washin Village. Each one solves a real problem.*
+How to orchestrate Claude Code + Codex CLI + Gemini CLI as a 3-agent development team.
 
-| Skill | What it does | Link |
-|-------|-------------|------|
-| 🎁 **報恩術** Infinite Gratitude | Multi-agent research: 10 agents, 3 waves | [![Stars](https://img.shields.io/github/stars/sstklen/infinite-gratitude?style=flat-square)](https://github.com/sstklen/infinite-gratitude) |
-| 💰 **省錢術** Cost Optimization | Save 50-90% on Claude API costs | [![Stars](https://img.shields.io/github/stars/sstklen/claude-api-cost-optimization?style=flat-square)](https://github.com/sstklen/claude-api-cost-optimization) |
-| 🧹 **整理術** Auto Tidy | Say "goodnight" → project gets organized | [![Stars](https://img.shields.io/github/stars/sstklen/auto-tidy?style=flat-square)](https://github.com/sstklen/auto-tidy) |
-| 📂 **索引術** Project Index | AI finds files in 2 sec instead of 5 min | [![Stars](https://img.shields.io/github/stars/sstklen/project-index?style=flat-square)](https://github.com/sstklen/project-index) |
-| 📐 **格式術** Skill Format | Official Claude Code Skill spec | [![Stars](https://img.shields.io/github/stars/sstklen/claude-code-skill-format?style=flat-square)](https://github.com/sstklen/claude-code-skill-format) |
-| 🗺️ **歸位術** File Placement | One carrot, one hole — files go where they belong | [![Stars](https://img.shields.io/github/stars/sstklen/file-placement-guide?style=flat-square)](https://github.com/sstklen/file-placement-guide) |
-| 🔰 **入門** AI Dojo Foundation | Environment tools + file placement = AI behaves | [![Stars](https://img.shields.io/github/stars/sstklen/ai-dojo?style=flat-square)](https://github.com/sstklen/ai-dojo) |
+</td>
+<td width="50%">
 
-> 📚 **[See all 80+ Claude Code Skills →](https://github.com/sstklen/washin-claude-skills)**
+**[AI Prompt Mastery](https://github.com/sstklen/ai-prompt-mastery)**
 
----
+One universal methodology to make any AI respond like an expert.
 
-### 🔨 Other Projects
-
-| Project | What | Link |
-|---------|------|------|
-| 🧠 **AI Prompt Mastery** | Universal methodology to unlock any AI's full potential | [![Stars](https://img.shields.io/github/stars/sstklen/ai-prompt-mastery?style=flat-square)](https://github.com/sstklen/ai-prompt-mastery) |
-| 🔍 **AEO.page** | Agent Engine Optimization — help AI find your business | [![Stars](https://img.shields.io/github/stars/sstklen/aeo-page?style=flat-square)](https://github.com/sstklen/aeo-page) |
-| 📊 **API Benchmark** | Monthly benchmark of 30+ AI APIs, tested from Tokyo | [![Stars](https://img.shields.io/github/stars/sstklen/washin-api-benchmark?style=flat-square)](https://github.com/sstklen/washin-api-benchmark) |
-| 🐛 **YanHui CI** | Debug AI that remembers every bug ever solved | [![Stars](https://img.shields.io/github/stars/sstklen/yanhui-ci?style=flat-square)](https://github.com/sstklen/yanhui-ci) |
-| 🐾 **Jelly AI** | AI companion with personality from Washin Village | [![Stars](https://img.shields.io/github/stars/sstklen/jelly-ai-washin-village?style=flat-square)](https://github.com/sstklen/jelly-ai-washin-village) |
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+### AI Dojo — Battle-Tested Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,bun,docker,linux,git,github,cloudflare&perline=8" />
-</p>
+> *Each skill solves a real problem we hit in production.*
+
+| Skill | What it does |
+|-------|-------------|
+| [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | Multi-agent research: 10 agents, 3 waves, parallel processing |
+| [Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization) | Save 50-90% on Claude API costs with Batch API + Caching |
+| [AEO.page](https://github.com/sstklen/aeo-page) | Agent Engine Optimization — help AI recommend your business |
+| [YanHui CI](https://github.com/sstklen/yanhui-ci) | Debug AI that remembers every bug ever solved |
+| [API Benchmark](https://github.com/sstklen/washin-api-benchmark) | Monthly tests of 30+ AI APIs from Tokyo |
+
+> **[See all 112 skills →](https://github.com/sstklen/washin-claude-skills)**
+
+---
+
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sstklen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sstklen&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-### 🎯 What I'm Building in 2026
-
-```
-🔥 Active Projects
-├── 🏪 Washin API Marketplace — AI Agent tool store (P/T/L architecture)
-├── 🐾 Animal AI Recognition — identifying 28 individual cats & dogs
-├── 🤖 Multi-AI Orchestration — Claude as boss, Codex + Gemini as team
-└── 🥋 AI Dojo Skills — open sourcing 80+ Claude Code battle-tested skills
-```
 
 ---
 
 <p align="center">
   <i>"The animals of Washin Village taught us to understand this planet."</i><br>
   <i>「和心村動物們的靈魂，教會我們理解這顆星球。」</i><br><br>
-  <a href="https://washinmura.jp">🏡 Visit Washin Village</a> ·
-  <a href="https://github.com/sstklen/washin-claude-skills">📚 All 80+ Skills</a> ·
-  <a href="https://github.com/sstklen/infinite-gratitude">🎁 Most Popular Repo</a>
+  <a href="https://github.com/sstklen/zero-engineer">📖 Full Story</a> ·
+  <a href="https://github.com/sstklen/washin-claude-skills">📚 112 Skills</a> ·
+  <a href="https://washinmura.jp">🏡 Washin Village</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
