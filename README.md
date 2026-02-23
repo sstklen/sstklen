@@ -57,9 +57,11 @@ How to orchestrate Claude Code + Codex CLI + Gemini CLI as a 3-agent development
 </td>
 <td width="50%">
 
-**[Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization)**
+**[YanHui CI](https://github.com/sstklen/yanhui-ci)**
 
-Save 50-90% on Claude API costs. Batch API + Prompt Caching + real scripts.
+Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-powered.
+
+`MCP Server` `Shared Knowledge Base` `Instant Fix`
 
 </td>
 </tr>
@@ -76,7 +78,6 @@ Save 50-90% on Claude API costs. Batch API + Prompt Caching + real scripts.
 | [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | Multi-agent research: 10 agents, 3 waves, parallel processing |
 | [Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization) | Save 50-90% on Claude API costs with Batch API + Caching |
 | [AEO.page](https://github.com/sstklen/aeo-page) | Agent Engine Optimization — help AI recommend your business |
-| [YanHui CI](https://github.com/sstklen/yanhui-ci) | Debug AI that remembers every bug ever solved |
 | [API Benchmark](https://github.com/sstklen/washin-api-benchmark) | Monthly tests of 30+ AI APIs from Tokyo |
 
 > **[See all 112 skills →](https://github.com/sstklen/washin-claude-skills)**
