@@ -34,9 +34,9 @@
 🤖 用 AI 打造了 30+ 個 API、5 萬行程式碼、完整的 AI 驅動平台。<br>
 🤖 AIエージェントで30以上のAPI、5万行のコード、AI駆動プラットフォームを構築。
 
-> *Your imagination is your only limit. Claude Max × 5 gives you superpowers.*<br>
-> *你的想像力到哪裡，魔法就在哪裡。*<br>
-> *想像力の届く場所に、魔法がある。*
+> *A dreamer who turns imagination into reality with Claude Code.*<br>
+> *用 Claude Code 實現創造力的夢想家。*<br>
+> *Claude Codeで創造力を現実にするドリーマー。*
 
 ### ⚡ Claude Code Usage (2 months) 兩個月用量 2ヶ月の使用量
 
