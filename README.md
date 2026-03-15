@@ -22,18 +22,21 @@
 
 ### Who am I? 我是誰？ 自己紹介
 
-A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dogs.
-**Not an engineer.** Built production systems using AI agents. Everything is open-sourced.
+🐾 Animal sanctuary owner in rural Japan — 28 cats & dogs on the Boso Peninsula.<br>
+🐾 日本房總半島的動物保護區經營者 — 28 隻貓狗。<br>
+🐾 日本・房総半島で動物保護施設を運営 — 猫と犬28匹。
 
-一個在日本鄉下經營**動物保護區**的台灣人 — 28 隻貓狗。
-**不是工程師。** 用 AI 打造了真實的生產系統。所有經驗全部開源。
+🚫 Not an engineer. Zero coding background.<br>
+🚫 不是工程師。零程式背景。<br>
+🚫 エンジニアではない。プログラミング経験ゼロ。
 
-日本の田舎で**動物保護施設**を運営する台湾人 — 猫と犬28匹。
-**エンジニアではありません。** AIエージェントで本番システムを構築。全て公開しています。
+🤖 Built 30+ APIs, 50K+ lines of code, and an AI-powered platform — all with AI agents.<br>
+🤖 用 AI 打造了 30+ 個 API、5 萬行程式碼、完整的 AI 驅動平台。<br>
+🤖 AIエージェントで30以上のAPI、5万行のコード、AI駆動プラットフォームを構築。
 
-> *Your imagination is your only limit. 你的想像力到哪裡，魔法就在哪裡。想像力の届く場所に、魔法がある。*
->
-> *Claude Max × 5 gives you superpowers. Claude Max × 5 賦予你的能力。Claude Max × 5 が与えてくれる力。*
+> *Your imagination is your only limit. Claude Max × 5 gives you superpowers.*<br>
+> *你的想像力到哪裡，魔法就在哪裡。*<br>
+> *想像力の届く場所に、魔法がある。*
 
 ---
 
@@ -45,7 +48,7 @@ A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dog
 
 **[🔐 TRUMP CODE](https://github.com/sstklen/trump-code)** — AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読
 
-`31.5M models tested 模型測試` `551 survivors 存活規則` `61.3% hit rate 命中率` `316+ Polymarket 預測市場`
+`31.5M models tested 模型測試 モデルテスト` `551 survivors 存活規則 生存ルール` `61.3% hit rate 命中率 的中率` `316+ Polymarket 預測市場 予測市場`
 
 [![Stars](https://img.shields.io/github/stars/sstklen/trump-code?style=social)](https://github.com/sstklen/trump-code)
 
