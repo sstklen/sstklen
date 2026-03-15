@@ -45,7 +45,9 @@ A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dog
 
 **[🔐 TRUMP CODE](https://github.com/sstklen/trump-code)** — AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読
 
-`31.5M models tested 模型測試` `551 survivors 存活規則` `61.3% hit rate 命中率` `316+ Polymarket markets 預測市場` `100+ ⭐`
+`31.5M models tested 模型測試` `551 survivors 存活規則` `61.3% hit rate 命中率` `316+ Polymarket 預測市場`
+
+[![Stars](https://img.shields.io/github/stars/sstklen/trump-code?style=social)](https://github.com/sstklen/trump-code)
 
 **[→ Live Dashboard: trumpcode.washinmura.jp](https://trumpcode.washinmura.jp)**
 
@@ -107,6 +109,15 @@ Bridge Claude CLI → VPS, zero cost<br>本機 Claude 連 VPS，零成本<br>ロ
 </td>
 </tr>
 </table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sstklen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sstklen&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="165"/>
+</p>
 
 ---
 
