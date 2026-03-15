@@ -1,69 +1,56 @@
 [English](README.md) · [中文版](README.zh.md)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=tkman&fontSize=70&fontAlignY=32&animation=fadeIn&fontColor=fff&desc=Rural%20Japan%20×%20AI%20Agents%20×%20Animal%20Sanctuary&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=tkman&fontSize=70&fontAlignY=32&animation=fadeIn&fontColor=fff&desc=日本の田舎%20×%20AI%20×%20動物保護施設&descSize=18&descAlignY=52" width="100%"/>
 
 <p align="center">
   <a href="https://washinmura.jp"><img src="https://img.shields.io/badge/🏡_和心村-washinmura.jp-green?style=for-the-badge" alt="Washin Village"/></a>
-  <img src="https://img.shields.io/badge/🐾_28_Animals-cats_&_dogs-orange?style=for-the-badge" alt="28 Animals"/>
-  <img src="https://img.shields.io/badge/🇯🇵_Boso_Peninsula-Chiba,_Japan-red?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/🐾_28匹-猫と犬-orange?style=for-the-badge" alt="28 Animals"/>
+  <img src="https://img.shields.io/badge/🇯🇵_房総半島-千葉,_日本-red?style=for-the-badge" alt="Location"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sstklen&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sstklen?style=flat-square&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/sstklen?style=flat-square&affiliations=OWNER&color=yellow" alt="Total Stars"/>
+  <a href="https://buy.stripe.com/5kQ6oI8Wk2Ui6Q3aww4c80r"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Claude_Max-FFD700?style=for-the-badge&labelColor=FFD700&logoColor=black" alt="Support"/></a>
 </p>
 
 ---
 
-### 私について
+### 自己紹介
 
-日本の田舎で**動物保護区**を運営している台湾人 — 28匹の猫と犬。
+🐾 日本・房総半島で動物保護施設を運営 — 猫と犬28匹。
 
-**エンジニアではありません。** AIコーディングエージェントを使い、7ヶ月で本番APIプラットフォーム（30以上のAPI、約5万行のコード）を構築しました。学んだこと全てを以下にオープンソースとして公開しています。
+🚫 エンジニアではありません。プログラミング経験ゼロ。
 
----
+🤖 AIエージェントで30以上のAPI、5万行のコード、AI駆動プラットフォームを構築しました。
 
-### 注目プロジェクト
+> *Claude Codeで創造力を現実にするドリーマー。*
+
+### ⚡ Claude Code 2ヶ月の使用量
 
 <table>
 <tr>
-<td width="50%">
-
-**[Zero Engineer](https://github.com/sstklen/zero-engineer)**
-
-エンジニア経験ゼロで本番APIプラットフォームを構築した方法。リアルな数字、リアルな失敗、リアルな教訓。
-
-`30以上のAPI` `$550/月` `7ヶ月` `200以上のバグ`
-
-</td>
-<td width="50%">
-
-**[112 Claude Code Skills](https://github.com/sstklen/washin-claude-skills)**
-
-全てのバグ修正を再利用可能なスキルに抽出。全112個を10秒でインストール。
-
-```
-curl -sSL https://raw.githubusercontent.com/sstklen/washin-claude-skills/main/install.sh | bash
-```
-
-</td>
+<td align="center">💰<br><b>API換算額</b><br><br><h2>$12,254</h2>API直接利用の場合</td>
+<td align="center">✅<br><b>2ヶ月の実費</b><br><br><h2>$2,000</h2>MAX 5× プラン</td>
+<td align="center">⚡<br><b>レバレッジ</b><br><br><h2>6.1×</h2>$1あたり$6.1の価値</td>
+<td align="center">🧠<br><b>総トークン数</b><br><br><h2>146億</h2>14,596,563,660</td>
+<td align="center">🔥<br><b>節約額</b><br><br><h2>$10,254</h2>サブスクで節約</td>
 </tr>
+</table>
+
+---
+
+### 🔥 注目プロジェクト
+
+<table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-**[Multi-Agent Coding](https://github.com/sstklen/multi-agent-coding)**
+**[🔐 トランプ・コード TRUMP CODE](https://github.com/sstklen/trump-code)** — AIでトランプ投稿 × 株式市場を解読
 
-Claude Code + Codex CLI + Gemini CLIを3エージェント開発チームとして組織する方法。
+`3,150万モデルテスト` `551生存ルール` `61.3%的中率` `316+ Polymarket予測市場`
 
-</td>
-<td width="50%">
+[![Stars](https://img.shields.io/github/stars/sstklen/trump-code?style=social)](https://github.com/sstklen/trump-code)
 
-**[YanHui CI](https://github.com/sstklen/yanhui-ci)**
-
-解決したバグを全て記憶するAIデバッガー。一度聞けば、二度と繰り返しません。MCP搭載。
-
-`MCPサーバー` `共有ナレッジベース` `即座に修正`
+**[→ ライブダッシュボード：trumpcode.washinmura.jp](https://trumpcode.washinmura.jp)**
 
 </td>
 </tr>
@@ -71,19 +58,58 @@ Claude Code + Codex CLI + Gemini CLIを3エージェント開発チームとし�
 
 ---
 
-### AI道場 — 実戦検証済みスキル
+### プロジェクト
 
-> *各スキルは本番環境で実際に遭遇した問題を解決します。*
+<table>
+<tr>
+<td width="50%">
 
-| スキル | 機能 |
-|-------|-------------|
-| [crawl-share](https://github.com/sstklen/crawl-share) | コミュニティウェブ情報：200以上の実戦Apify actors |
-| [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | マルチエージェントリサーチ：10エージェント、3ウェーブ、並列処理 |
-| [Claude APIコスト最適化](https://github.com/sstklen/claude-api-cost-optimization) | Batch API + Cachingでコストを50-90%削減 |
-| [AEO.page](https://github.com/sstklen/aeo-page) | Agent Engine Optimization — AIにあなたのビジネスを推薦させる |
-| [API Benchmark](https://github.com/sstklen/washin-api-benchmark) | 東京から30以上のAI APIを毎月テスト |
+**[🚀 5x CTO](https://github.com/sstklen/5x-cto)**
 
-> **[全112スキルを見る →](https://github.com/sstklen/washin-claude-skills)**
+一人で5人分の開発力<br>1 Claude MAX + 1 Codex = 5倍の生産性
+
+</td>
+<td width="50%">
+
+**[📚 和心村プレイブック](https://github.com/sstklen/washin-playbook)**
+
+AI実践ガイド 全7章<br>ゼロエンジニア、マルチAI協調、112スキル...
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🦞 ClawAPI](https://github.com/sstklen/clawapi)**
+
+AI APIキーマネージャー + スマートルーター
+
+</td>
+<td width="50%">
+
+**[📝 AI.MD](https://github.com/sstklen/ai-md)**
+
+CLAUDE.mdをAIネイティブ形式に変換
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[✅ YES.md](https://github.com/sstklen/yes.md)**
+
+Claude Code用 AIガバナンスフレームワーク
+
+</td>
+<td width="50%">
+
+**[🌉 Opus Relay](https://github.com/sstklen/opus-relay)**
+
+ローカルClaude → VPS、コストゼロ
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -101,11 +127,11 @@ Claude Code + Codex CLI + Gemini CLIを3エージェント開発チームとし�
 ---
 
 <p align="center">
-  <i>"The animals of Washin Village taught us to understand this planet."</i><br>
-  <i>「和心村の動物たちの魂が、この星を理解することを教えてくれました。」</i><br><br>
-  <a href="https://github.com/sstklen/zero-engineer">📖 全ストーリー</a> ·
-  <a href="https://github.com/sstklen/washin-claude-skills">📚 112スキル</a> ·
-  <a href="https://washinmura.jp">🏡 和心村</a>
+  <i>「和心村の動物たちが、この惑星を理解することを教えてくれた。」</i><br><br>
+  <a href="https://trumpcode.washinmura.jp">🔐 トランプ・コード</a> ·
+  <a href="https://github.com/sstklen/washin-playbook">📚 プレイブック</a> ·
+  <a href="https://washinmura.jp">🏡 和心村</a> ·
+  <a href="https://buy.stripe.com/5kQ6oI8Wk2Ui6Q3aww4c80r">☕ サポート</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>

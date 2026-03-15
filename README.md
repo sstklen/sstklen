@@ -127,6 +127,19 @@ Bridge Claude CLI → VPS, zero cost<br>本機 Claude 連 VPS，零成本<br>ロ
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sstklen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sstklen&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="165"/>
+</p>
+
+> **What's in these cards 這兩張卡片是什麼 この2つのカードは何？**
+> - Left 左 左: Total stars ⭐ 總星數, commits 提交次數, PRs, issues — your GitHub activity 你的 GitHub 活動 GitHubの活動
+> - Right 右 右: Current streak 連續貢獻天數 連続貢献日数 — how many days in a row you've committed 連續幾天有提交 何日連続でコミットしたか
+
+---
+
 ### Tech Stack 技術棧 技術スタック
 
 <p align="center">
