@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://buy.stripe.com/5kQ6oI8Wk2Ui6Q3aww4c80r"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Claude_Max-FFD700?style=for-the-badge&labelColor=FFD700&logoColor=black" alt="Support"/></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sstklen&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/sstklen?style=flat-square&color=blue" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/sstklen?style=flat-square&affiliations=OWNER&color=yellow" alt="Total Stars"/>
@@ -20,50 +24,23 @@
 
 A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dogs.
 
-**Not an engineer.** Built a production API platform (30+ APIs, ~50K LOC) using AI coding agents in 7 months. Every lesson is open-sourced below.
+**Not an engineer.** Built production systems using AI coding agents. Every lesson is open-sourced.
+
+> *Your imagination is your only limit. Claude Max × 5 gives you superpowers.*
 
 ---
 
-### Featured
+### 🔥 Hot Right Now
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-**[Zero Engineer](https://github.com/sstklen/zero-engineer)**
+**[🔐 TRUMP CODE](https://github.com/sstklen/trump-code)** — AI decoding Trump's posts × stock market
 
-How I built a production API platform with zero engineering background. Real numbers, real failures, real lessons.
+`31.5M models tested` `551 survivors` `61.3% hit rate` `316+ Polymarket markets` `100+ ⭐`
 
-`30+ APIs` `$550/mo` `7 months` `200+ bugs`
-
-</td>
-<td width="50%">
-
-**[112 Claude Code Skills](https://github.com/sstklen/washin-claude-skills)**
-
-Every bug fix extracted into a reusable skill. Install all 112 in 10 seconds.
-
-```
-curl -sSL https://raw.githubusercontent.com/sstklen/washin-claude-skills/main/install.sh | bash
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Multi-Agent Coding](https://github.com/sstklen/multi-agent-coding)**
-
-How to orchestrate Claude Code + Codex CLI + Gemini CLI as a 3-agent development team.
-
-</td>
-<td width="50%">
-
-**[YanHui CI](https://github.com/sstklen/yanhui-ci)**
-
-Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-powered.
-
-`MCP Server` `Shared Knowledge Base` `Instant Fix`
+**[→ Live Dashboard: trumpcode.washinmura.jp](https://trumpcode.washinmura.jp)**
 
 </td>
 </tr>
@@ -71,19 +48,58 @@ Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-power
 
 ---
 
-### AI Dojo — Battle-Tested Skills
+### Projects
 
-> *Each skill solves a real problem we hit in production.*
+<table>
+<tr>
+<td width="50%">
 
-| Skill | What it does |
-|-------|-------------|
-| [crawl-share](https://github.com/sstklen/crawl-share) | Community web intelligence: 200+ Apify actors battle-tested |
-| [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | Multi-agent research: 10 agents, 3 waves, parallel processing |
-| [Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization) | Save 50-90% on Claude API costs with Batch API + Caching |
-| [AEO.page](https://github.com/sstklen/aeo-page) | Agent Engine Optimization — help AI recommend your business |
-| [API Benchmark](https://github.com/sstklen/washin-api-benchmark) | Monthly tests of 30+ AI APIs from Tokyo |
+**[🚀 5x CTO](https://github.com/sstklen/5x-cto)**
 
-> **[See all 112 skills →](https://github.com/sstklen/washin-claude-skills)**
+1 Claude MAX + 1 Codex = 5x development capacity. Spec-ops for non-coders.
+
+</td>
+<td width="50%">
+
+**[📚 Washin Playbook](https://github.com/sstklen/washin-playbook)**
+
+7 chapters: zero-engineer, multi-agent coding, 112 skills, API benchmarks, crawl intelligence, self-correction, cost optimization.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🦞 ClawAPI](https://github.com/sstklen/clawapi)**
+
+Open-source AI API Key Manager + Smart Router. Includes Dr. Claw Debug KB.
+
+</td>
+<td width="50%">
+
+**[📝 AI.MD](https://github.com/sstklen/ai-md)**
+
+Convert human-written CLAUDE.md into AI-native format. Battle-tested across 4 models.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[✅ YES.md](https://github.com/sstklen/yes.md)**
+
+AI governance skill for Claude Code. Safety gates, evidence rules, anti-slack detection.
+
+</td>
+<td width="50%">
+
+**[🌉 Opus Relay](https://github.com/sstklen/opus-relay)**
+
+Bridge local Claude CLI to any VPS. Zero API cost.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,9 +119,10 @@ Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-power
 <p align="center">
   <i>"The animals of Washin Village taught us to understand this planet."</i><br>
   <i>「和心村動物們的靈魂，教會我們理解這顆星球。」</i><br><br>
-  <a href="https://github.com/sstklen/zero-engineer">📖 Full Story</a> ·
-  <a href="https://github.com/sstklen/washin-claude-skills">📚 112 Skills</a> ·
-  <a href="https://washinmura.jp">🏡 Washin Village</a>
+  <a href="https://trumpcode.washinmura.jp">🔐 Trump Code</a> ·
+  <a href="https://github.com/sstklen/washin-playbook">📚 Playbook</a> ·
+  <a href="https://washinmura.jp">🏡 Washin Village</a> ·
+  <a href="https://buy.stripe.com/5kQ6oI8Wk2Ui6Q3aww4c80r">☕ Support</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
