@@ -45,7 +45,7 @@ A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dog
 
 **[🔐 TRUMP CODE](https://github.com/sstklen/trump-code)** — AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読
 
-`31.5M models tested` `551 survivors` `61.3% hit rate` `316+ Polymarket markets` `100+ ⭐`
+`31.5M models tested 模型測試` `551 survivors 存活規則` `61.3% hit rate 命中率` `316+ Polymarket markets 預測市場` `100+ ⭐`
 
 **[→ Live Dashboard: trumpcode.washinmura.jp](https://trumpcode.washinmura.jp)**
 
@@ -63,18 +63,14 @@ A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dog
 
 **[🚀 5x CTO](https://github.com/sstklen/5x-cto)**
 
-1 Claude MAX + 1 Codex = 5x capacity
-一個人當五個工程師用
-一人で5人分の開発力
+1 Claude MAX + 1 Codex = 5x capacity<br>一個人當五個工程師用<br>一人で5人分の開発力
 
 </td>
 <td width="50%">
 
 **[📚 Washin Playbook](https://github.com/sstklen/washin-playbook)**
 
-7 chapters of battle-tested AI guides
-7 章 AI 實戰手冊
-AI実践ガイド7章
+7 chapters of battle-tested AI guides<br>7 章 AI 實戰手冊<br>AI実践ガイド 全7章
 
 </td>
 </tr>
@@ -83,18 +79,14 @@ AI実践ガイド7章
 
 **[🦞 ClawAPI](https://github.com/sstklen/clawapi)**
 
-AI API Key Manager + Smart Router
-AI API 金鑰管理 + 智能路由
-AIキーマネージャー + スマートルーター
+AI API Key Manager + Smart Router<br>AI API 金鑰管理 + 智能路由<br>AIキーマネージャー + スマートルーター
 
 </td>
 <td width="50%">
 
 **[📝 AI.MD](https://github.com/sstklen/ai-md)**
 
-Convert CLAUDE.md to AI-native format
-蒸餾 CLAUDE.md 為 AI 原生格式
-CLAUDE.mdをAIネイティブ形式に変換
+Convert CLAUDE.md to AI-native format<br>蒸餾 CLAUDE.md 為 AI 原生格式<br>CLAUDE.mdをAIネイティブ形式に変換
 
 </td>
 </tr>
@@ -103,18 +95,14 @@ CLAUDE.mdをAIネイティブ形式に変換
 
 **[✅ YES.md](https://github.com/sstklen/yes.md)**
 
-AI governance for Claude Code
-AI 治理框架
-AIガバナンスフレームワーク
+AI governance for Claude Code<br>Claude Code 的 AI 治理框架<br>Claude Code用 AIガバナンス
 
 </td>
 <td width="50%">
 
 **[🌉 Opus Relay](https://github.com/sstklen/opus-relay)**
 
-Bridge Claude CLI → VPS, zero cost
-本機 Claude 連 VPS 零成本
-ローカルClaude→VPSブリッジ
+Bridge Claude CLI → VPS, zero cost<br>本機 Claude 連 VPS，零成本<br>ローカルClaude→VPS、コストゼロ
 
 </td>
 </tr>
