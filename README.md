@@ -38,15 +38,15 @@
 > *你的想像力到哪裡，魔法就在哪裡。*<br>
 > *想像力の届く場所に、魔法がある。*
 
-### ⚡ Claude Code Usage (3 months) 三個月用量 3ヶ月の使用量
+### ⚡ Claude Code Usage (2 months) 兩個月用量 2ヶ月の使用量
 
 <table>
 <tr>
 <td align="center">💰<br><b>API Equivalent<br>累計 API 等值<br>API換算額</b><br><br><h2>$12,254</h2>If using API directly<br>如果走 API 要付這麼多<br>API直接利用の場合</td>
-<td align="center">✅<br><b>Actually Paid<br>3 個月實付<br>3ヶ月の実費</b><br><br><h2>$3,200</h2>$200 × 5 × 3 months<br>MAX 5× 訂閱<br>MAX 5× プラン</td>
-<td align="center">⚡<br><b>Leverage<br>槓桿倍數<br>レバレッジ</b><br><br><h2>3.8×</h2>Every $1 = $3.8 value<br>每付 $1 用了 $3.8<br>$1あたり$3.8の価値</td>
+<td align="center">✅<br><b>Actually Paid<br>2 個月實付<br>2ヶ月の実費</b><br><br><h2>$2,000</h2>$200 × 5 × 2 months<br>MAX 5× 訂閱<br>MAX 5× プラン</td>
+<td align="center">⚡<br><b>Leverage<br>槓桿倍數<br>レバレッジ</b><br><br><h2>6.1×</h2>Every $1 = $6.1 value<br>每付 $1 用了 $6.1<br>$1あたり$6.1の価値</td>
 <td align="center">🧠<br><b>Total Tokens<br>總 Token 數<br>総トークン数</b><br><br><h2>14.6B</h2>14,596,563,660<br>146 億<br>146億</td>
-<td align="center">🔥<br><b>Saved<br>省下的錢<br>節約額</b><br><br><h2>$9,054</h2>Subscription savings<br>訂閱幫你省的<br>サブスクで節約</td>
+<td align="center">🔥<br><b>Saved<br>省下的錢<br>節約額</b><br><br><h2>$10,254</h2>Subscription savings<br>訂閱幫你省的<br>サブスクで節約</td>
 </tr>
 </table>
 
