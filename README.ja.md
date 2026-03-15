@@ -1,4 +1,4 @@
-[中文版](README.zh.md) · [日本語版](README.ja.md)
+[English](README.md) · [中文版](README.zh.md)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=tkman&fontSize=70&fontAlignY=32&animation=fadeIn&fontColor=fff&desc=Rural%20Japan%20×%20AI%20Agents%20×%20Animal%20Sanctuary&descSize=18&descAlignY=52" width="100%"/>
 
@@ -16,15 +16,15 @@
 
 ---
 
-### Who am I?
+### 私について
 
-A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dogs.
+日本の田舎で**動物保護区**を運営している台湾人 — 28匹の猫と犬。
 
-**Not an engineer.** Built a production API platform (30+ APIs, ~50K LOC) using AI coding agents in 7 months. Every lesson is open-sourced below.
+**エンジニアではありません。** AIコーディングエージェントを使い、7ヶ月で本番APIプラットフォーム（30以上のAPI、約5万行のコード）を構築しました。学んだこと全てを以下にオープンソースとして公開しています。
 
 ---
 
-### Featured
+### 注目プロジェクト
 
 <table>
 <tr>
@@ -32,16 +32,16 @@ A Taiwanese guy running an **animal sanctuary in rural Japan** — 28 cats & dog
 
 **[Zero Engineer](https://github.com/sstklen/zero-engineer)**
 
-How I built a production API platform with zero engineering background. Real numbers, real failures, real lessons.
+エンジニア経験ゼロで本番APIプラットフォームを構築した方法。リアルな数字、リアルな失敗、リアルな教訓。
 
-`30+ APIs` `$550/mo` `7 months` `200+ bugs`
+`30以上のAPI` `$550/月` `7ヶ月` `200以上のバグ`
 
 </td>
 <td width="50%">
 
 **[112 Claude Code Skills](https://github.com/sstklen/washin-claude-skills)**
 
-Every bug fix extracted into a reusable skill. Install all 112 in 10 seconds.
+全てのバグ修正を再利用可能なスキルに抽出。全112個を10秒でインストール。
 
 ```
 curl -sSL https://raw.githubusercontent.com/sstklen/washin-claude-skills/main/install.sh | bash
@@ -54,16 +54,16 @@ curl -sSL https://raw.githubusercontent.com/sstklen/washin-claude-skills/main/in
 
 **[Multi-Agent Coding](https://github.com/sstklen/multi-agent-coding)**
 
-How to orchestrate Claude Code + Codex CLI + Gemini CLI as a 3-agent development team.
+Claude Code + Codex CLI + Gemini CLIを3エージェント開発チームとして組織する方法。
 
 </td>
 <td width="50%">
 
 **[YanHui CI](https://github.com/sstklen/yanhui-ci)**
 
-Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-powered.
+解決したバグを全て記憶するAIデバッガー。一度聞けば、二度と繰り返しません。MCP搭載。
 
-`MCP Server` `Shared Knowledge Base` `Instant Fix`
+`MCPサーバー` `共有ナレッジベース` `即座に修正`
 
 </td>
 </tr>
@@ -71,23 +71,23 @@ Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-power
 
 ---
 
-### AI Dojo — Battle-Tested Skills
+### AI道場 — 実戦検証済みスキル
 
-> *Each skill solves a real problem we hit in production.*
+> *各スキルは本番環境で実際に遭遇した問題を解決します。*
 
-| Skill | What it does |
+| スキル | 機能 |
 |-------|-------------|
-| [crawl-share](https://github.com/sstklen/crawl-share) | Community web intelligence: 200+ Apify actors battle-tested |
-| [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | Multi-agent research: 10 agents, 3 waves, parallel processing |
-| [Claude API Cost Optimization](https://github.com/sstklen/claude-api-cost-optimization) | Save 50-90% on Claude API costs with Batch API + Caching |
-| [AEO.page](https://github.com/sstklen/aeo-page) | Agent Engine Optimization — help AI recommend your business |
-| [API Benchmark](https://github.com/sstklen/washin-api-benchmark) | Monthly tests of 30+ AI APIs from Tokyo |
+| [crawl-share](https://github.com/sstklen/crawl-share) | コミュニティウェブ情報：200以上の実戦Apify actors |
+| [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude) | マルチエージェントリサーチ：10エージェント、3ウェーブ、並列処理 |
+| [Claude APIコスト最適化](https://github.com/sstklen/claude-api-cost-optimization) | Batch API + Cachingでコストを50-90%削減 |
+| [AEO.page](https://github.com/sstklen/aeo-page) | Agent Engine Optimization — AIにあなたのビジネスを推薦させる |
+| [API Benchmark](https://github.com/sstklen/washin-api-benchmark) | 東京から30以上のAI APIを毎月テスト |
 
-> **[See all 112 skills →](https://github.com/sstklen/washin-claude-skills)**
+> **[全112スキルを見る →](https://github.com/sstklen/washin-claude-skills)**
 
 ---
 
-### Tech Stack
+### 技術スタック
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -102,10 +102,10 @@ Debug AI that remembers every bug ever solved. Ask once, never repeat. MCP-power
 
 <p align="center">
   <i>"The animals of Washin Village taught us to understand this planet."</i><br>
-  <i>「和心村動物們的靈魂，教會我們理解這顆星球。」</i><br><br>
-  <a href="https://github.com/sstklen/zero-engineer">📖 Full Story</a> ·
-  <a href="https://github.com/sstklen/washin-claude-skills">📚 112 Skills</a> ·
-  <a href="https://washinmura.jp">🏡 Washin Village</a>
+  <i>「和心村の動物たちの魂が、この星を理解することを教えてくれました。」</i><br><br>
+  <a href="https://github.com/sstklen/zero-engineer">📖 全ストーリー</a> ·
+  <a href="https://github.com/sstklen/washin-claude-skills">📚 112スキル</a> ·
+  <a href="https://washinmura.jp">🏡 和心村</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
