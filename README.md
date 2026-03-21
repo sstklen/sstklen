@@ -58,6 +58,18 @@
 <tr>
 <td width="100%">
 
+**[🐱 cat Treehouse](https://github.com/sstklen/cat-treehouse)** — Got Claude Max? Win a treehouse stay in Japan. **1 wins, 4 go.** | 有 Claude Max？一人中獎，四人同行 | Claude Maxで日本のツリーハウスを当てよう
+
+`GitHub stars = lottery tickets 星星=彩券` `Deadline: May 1 截止5/1` `Before Code with Claude Tokyo`
+
+[![Stars](https://img.shields.io/github/stars/sstklen/cat-treehouse?style=social)](https://github.com/sstklen/cat-treehouse)
+[![Enter](https://img.shields.io/badge/🎟️_Enter_the_Draw-報名抽獎-green?style=flat-square)](https://github.com/sstklen/cat-treehouse/issues/new?template=enter.yml)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 **[🔐 TRUMP CODE](https://github.com/sstklen/trump-code)** — AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読
 
 `31.5M models tested 模型測試 モデルテスト` `551 survivors 存活規則 生存ルール` `61.3% hit rate 命中率 的中率` `316+ Polymarket 預測市場 予測市場`
