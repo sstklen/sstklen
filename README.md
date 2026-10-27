@@ -58,6 +58,19 @@
 <tr>
 <td width="100%">
 
+**[📖 IDAEO: Market Strategy for the AI Era](https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era)** — My book. Customers ask AI first; marketing must first make AI understand and trust you, then let AI speak for you. | 我的書：客人先問 AI，行銷要先讓 AI 懂你、信你，再讓 AI 替你說話 | 私の本：顧客はまず AI に聞く。まず AI に理解され、信頼され、AI に語ってもらう
+
+`ID → IDA → AEO` `Seven Laws 七大定律 七大法則` `AI Customer Journey 4×10` `220 days · 105.5M requests 實測` `Free · CC BY 4.0 · EN/JA/繁中/简中`
+
+[![Stars](https://img.shields.io/github/stars/sstklen/IDAEO-Market-Strategy-for-the-AI-Era?style=social)](https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era)
+[![Read](https://img.shields.io/badge/📖_Read_free-免費閱讀-green?style=flat-square)](https://km.idaeo.ai/idaeo/textbook)
+[![IDA](https://img.shields.io/badge/🪪_Author_IDA-林毅祥_TK_Lin-blue?style=flat-square)](https://tklin.washinmura.jp)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 **[🐱 cat Treehouse](https://github.com/sstklen/cat-treehouse)** — Got Claude Max? Win a treehouse stay in Japan. **1 wins, 4 go.** | 有 Claude Max？一人中獎，四人同行 | Claude Maxで日本のツリーハウスを当てよう
 
 `GitHub stars = lottery tickets 星星=彩券` `Deadline: May 1 截止5/1` `Before Code with Claude Tokyo`

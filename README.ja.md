@@ -44,6 +44,16 @@
 <tr>
 <td width="100%">
 
+**[📖 『IDAEO：AI時代の市場戦略』](https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era)** — 私の本。顧客はまず AI に聞く。マーケティングはまず AI に理解され、信頼され、次に AI に語ってもらうこと。ID → IDA → AEO、七大法則、AI カスタマージャーニーの四つのフェーズと十のステップ。自社サイトで 220 日実測。四言語で無料、CC BY 4.0。
+
+[![無料で読む](https://img.shields.io/badge/📖_無料で読む-km.idaeo.ai-green?style=flat-square)](https://km.idaeo.ai/idaeo/textbook?lang=ja)
+[![著者 IDA](https://img.shields.io/badge/🪪_著者_IDA-林毅祥_TK_Lin-blue?style=flat-square)](https://tklin.washinmura.jp/ja/)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 **[🔐 トランプ・コード TRUMP CODE](https://github.com/sstklen/trump-code)** — AIでトランプ投稿 × 株式市場を解読
 
 `3,150万モデルテスト` `551生存ルール` `61.3%的中率` `316+ Polymarket予測市場`

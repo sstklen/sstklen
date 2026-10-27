@@ -44,6 +44,16 @@
 <tr>
 <td width="100%">
 
+**[📖 《IDAEO：AI 時代的行銷戰略》](https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era)** — 我的書。客人先問 AI，行銷要先讓 AI 懂你、信你，再讓 AI 替你說話。ID → IDA → AEO、七大定律、AI 顧客旅程四階段十步驟，自家網站實測 220 天。四語免費，CC BY 4.0。
+
+[![免費閱讀](https://img.shields.io/badge/📖_免費閱讀-km.idaeo.ai-green?style=flat-square)](https://km.idaeo.ai/idaeo/textbook)
+[![作者 IDA](https://img.shields.io/badge/🪪_作者_IDA-林毅祥_TK_Lin-blue?style=flat-square)](https://tklin.washinmura.jp)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 **[🔐 川普密碼 TRUMP CODE](https://github.com/sstklen/trump-code)** — AI 解碼川普推文 × 美股
 
 `3150 萬組模型測試` `551 條存活規則` `61.3% 命中率` `316+ Polymarket 預測市場`
