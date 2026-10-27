@@ -58,7 +58,7 @@
 <tr>
 <td width="100%">
 
-**[📖 IDAEO: Market Strategy for the AI Era](https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era)** — My book. Customers ask AI first; marketing must first make AI understand and trust you, then let AI speak for you. | 我的書：客人先問 AI，行銷要先讓 AI 懂你、信你，再讓 AI 替你說話 | 私の本：顧客はまず AI に聞く。まず AI に理解され、信頼され、AI に語ってもらう
+**[📖 IDAEO: Market Strategy for the AI Era](https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era)** — My book. Customers ask AI first; marketing must first make AI understand and trust you, then let AI speak for you. | 我的書：客人先問 AI，行銷要先讓 AI 懂你、信你，再讓 AI 替你說話 | 私の本：顧客はまず AI に聞く。マーケティングはまず AI に理解され、信頼され、次に AI に語ってもらうこと
 
 `ID → IDA → AEO` `Seven Laws 七大定律 七大法則` `AI Customer Journey 4×10` `220 days · 105.5M requests 實測` `Free · CC BY 4.0 · EN/JA/繁中/简中`
 
