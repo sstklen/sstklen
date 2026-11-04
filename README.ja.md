@@ -48,6 +48,7 @@
 
 [![無料で読む](https://img.shields.io/badge/📖_無料で読む-km.idaeo.ai-green?style=flat-square)](https://km.idaeo.ai/idaeo/textbook?lang=ja)
 [![著者 IDA](https://img.shields.io/badge/🪪_著者_IDA-林毅祥_TK_Lin-blue?style=flat-square)](https://tklin.washinmura.jp/ja/)
+[![Bio](https://img.shields.io/badge/🪪_Bio-bio.idaeo.ai%2Ftk--lin-blue?style=flat-square)](https://bio.idaeo.ai/tk-lin)
 
 </td>
 </tr>

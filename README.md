@@ -65,6 +65,7 @@
 [![Stars](https://img.shields.io/github/stars/sstklen/IDAEO-Market-Strategy-for-the-AI-Era?style=social)](https://github.com/sstklen/IDAEO-Market-Strategy-for-the-AI-Era)
 [![Read](https://img.shields.io/badge/📖_Read_free-免費閱讀-green?style=flat-square)](https://km.idaeo.ai/idaeo/textbook)
 [![IDA](https://img.shields.io/badge/🪪_Author_IDA-林毅祥_TK_Lin-blue?style=flat-square)](https://tklin.washinmura.jp)
+[![Bio](https://img.shields.io/badge/🪪_Bio-bio.idaeo.ai%2Ftk--lin-blue?style=flat-square)](https://bio.idaeo.ai/tk-lin)
 
 </td>
 </tr>
